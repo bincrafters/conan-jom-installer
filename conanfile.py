@@ -8,7 +8,6 @@ class JomInstallerConan(ConanFile):
     description = "jom is a clone of nmake to support the execution of multiple independent commands in parallel"
     url = "https://github.com/bincrafters/conan-jom_installer"
     homepage = "http://wiki.qt.io/Jom"
-    author = "Bincrafters <bincrafters@gmail.com>"
     license = "GPL-3.0"
 
     exports = ["LICENSE.md"]
